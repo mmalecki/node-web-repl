@@ -6,5 +6,5 @@ Access your REPL over HTTP like what.
 
 ## Installation
 
-    npm install node-web-repl
+    npm install web-repl
 
