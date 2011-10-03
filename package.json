@@ -1,0 +1,16 @@
+{
+  "author": "Maciej Małecki <maciej.malecki@notimplemented.org>",
+  "name": "web-repl",
+  "description": "Access your REPL over HTTP like what",
+  "version": "0.0.0",
+  "keywords": ["repl", "http"],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mmalecki/node-web-repl.git"
+  },
+  "engines": {
+    "node": ">= v0.4"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
